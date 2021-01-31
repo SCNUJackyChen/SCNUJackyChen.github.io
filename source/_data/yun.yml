@@ -1,0 +1,143 @@
+favicon: /sun.ico
+avatar:
+  enable: true
+  url: /images/avatar.jpg
+  rounded: true
+  opacity: 1
+  mickey_mouse: false
+  status:
+    enable: true
+    emoji: 😎
+    message: 对知识和技术永葆敬畏之心
+
+banner:
+  enable: true
+  title: 
+     - Jacky
+     - 同学
+     - 的
+     - 杂货铺
+  src: /js/ui/banner.js
+  border: false
+  cloud:
+    enable: true
+    color: "white"
+  go_down:
+    enable: true
+    icon: icon-arrow-down-s-line
+
+say:
+  enable: true
+  api: /data/sentences.json
+  hitokoto:
+    enable: false
+
+social:
+  - name: RSS
+    link: /atom.xml # config.feed.path
+    icon: icon-rss-line
+    color: orange
+  - name: E-Mail
+    link: happyboyczq@qq.com
+    icon: icon-mail-line
+    color: "#8E71C1"
+  - name: GitHub
+    link: https://github.com/SCNUJackyChen
+    icon: icon-github-line
+    color: "#181717"
+  - name: 知乎
+    link: https://www.zhihu.com/people/chen-jin-ye-56
+    icon: icon-zhihu-line
+    color: "#0084FF"
+  - name: 微信公众号
+    link: https://cdn.jsdelivr.net/gh/SCNUJackyChen/SCNUJackyChen.github.io@latest/images/qrcode.jpg
+    icon: icon-wechat-2-line
+    color: "#1AAD19"
+
+cursor:
+  enable: true
+  default: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/pointer.cur
+  pointer: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/link.cur
+  text: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/text.cur
+
+sidebar:
+  bg_image: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/stars-timing-1.jpg
+  bg_position: bottom 3rem center
+  tagcloud:
+    enable: true
+    amount: 20
+
+codeblock:
+  copy_btn: true
+  prismjs:
+    light: default
+    dark: tomorrow
+
+footer:
+  since: 2021
+  live_time:
+    enable: true
+    prefix: 本博客已快乐地运行
+    suffix: (●'◡'●)
+    start_time: "2021-01-27T00:00:00"
+
+wordcloud:
+  enable: true
+  height: 350
+
+engine_search:
+  enable: false
+
+local_search:
+  enable: true
+  src: /js/search/local-search.js
+
+wordcount:
+  enable: true
+  count: true
+  time: false
+
+pjax:
+  enable: true
+
+aplayer:
+  global: true
+  meting: true
+  # https://github.com/metowolf/MetingJS/tree/v1.2#option
+  widget:
+    enable: true
+    autoplay: false
+    # theme: "#2980b9"
+    loop: all
+    order: list
+    preload: auto
+    volume: 0.7
+    mutex: true
+    lrcType: 0
+    listFolded: false
+    listMaxHeight: 340px
+    audio:
+      - name: 星宿计时
+        artist: 杉田朗/洛天依
+        url: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/audio/star-timer.mp3
+        cover: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/stars-timing-0.jpg
+    meting:
+      enable: true
+      id: 472732356
+      server: netease
+      type: playlist
+
+katex:
+  copy_tex: true
+  global: false
+
+github_discussions:
+  enable: true
+  username: SCNUJackyChen
+  repository: SCNUJackyChen.github.io
+
+github_issues:
+  enable: true
+  username: SCNUJackyChen
+  repository: SCNUJackyChen.github.io
+  filters: is:issue
