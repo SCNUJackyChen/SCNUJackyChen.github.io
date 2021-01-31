@@ -141,3 +141,7 @@ github_issues:
   username: SCNUJackyChen
   repository: SCNUJackyChen.github.io
   filters: is:issue
+
+post_edit:
+  enable: true
+  url: https://github.com/SCNUJackyChen/SCNUJackyChen.github.io/tree/hexo/source/
