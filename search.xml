@@ -4,11 +4,38 @@
   
     
     <entry>
+      <title>LC-4 寻找两个正序数组的中位数</title>
+      <link href="2021/03/02/LC-4/"/>
+      <url>2021/03/02/LC-4/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><pre class="language-C++" data-language="C++"><code class="language-C++">class Solution &#123;public:    double findMedianSortedArrays(vector&lt;int&gt;&amp; nums1, vector&lt;int&gt;&amp; nums2) &#123;        int total &#x3D; nums1.size() + nums2.size();        if(total % 2 &#x3D;&#x3D; 0)&#123;            int left &#x3D; find(nums1, 0, nums2, 0, total &#x2F; 2);            int right &#x3D; find(nums1, 0, nums2, 0, total &#x2F; 2 + 1);            return (left + right) &#x2F; 2.0;        &#125;else&#123;            return find(nums1, 0, nums2, 0, total &#x2F; 2 + 1);        &#125;    &#125;    int find(vector&lt;int&gt;&amp; nums1, int i, vector&lt;int&gt;&amp; nums2, int j, int k) &#123;        if(nums1.size() - i &gt; nums2.size() - j) return find(nums2, j, nums1, i, k);        if(i &#x3D;&#x3D; nums1.size()) return nums2[j + k - 1];        if(k &#x3D;&#x3D; 1) return min(nums1[i], nums2[j]);                int si &#x3D; min((int)nums1.size(), i + k &#x2F; 2), sj &#x3D; j + k - k &#x2F; 2;        if(nums1[si - 1] &lt; nums2[sj - 1]) return find(nums1, si, nums2, j, k - (si - i));        else return find(nums1, i, nums2, sj, k - (sj - j));    &#125;&#125;;</code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> 算法 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Leetcode </tag>
+            
+            <tag> 递归 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>序章</title>
       <link href="2021/01/27/hello-world/"/>
       <url>2021/01/27/hello-world/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>test</p>]]></content>
       
       
       
