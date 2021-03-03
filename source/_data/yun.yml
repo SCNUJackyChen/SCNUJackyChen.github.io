@@ -67,12 +67,6 @@ sidebar:
     enable: true
     amount: 20
 
-codeblock:
-  copy_btn: true
-  prismjs:
-    light: default
-    dark: tomorrow
-
 footer:
   since: 2021
   live_time:
@@ -145,3 +139,10 @@ github_issues:
 post_edit:
   enable: true
   url: https://github.com/SCNUJackyChen/SCNUJackyChen.github.io/tree/hexo/source/
+
+codeblock:
+  copy_btn: true
+  prismjs:
+    light: default
+    dark: dark
+
