@@ -6,7 +6,7 @@
   <link href="https://scnujackychen.github.io/atom.xml" rel="self"/>
   
   <link href="https://scnujackychen.github.io/"/>
-  <updated>2021-03-04T15:00:21.504Z</updated>
+  <updated>2021-03-05T15:20:32.207Z</updated>
   <id>https://scnujackychen.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>LC-32 最长有效括号</title>
+    <link href="https://scnujackychen.github.io/2021/03/05/LC-32/"/>
+    <id>https://scnujackychen.github.io/2021/03/05/LC-32/</id>
+    <published>2021-03-05T14:42:02.000Z</published>
+    <updated>2021-03-05T15:20:32.207Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/Leetcode.jpg&quot; alt=&quot;LC&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="算法" scheme="https://scnujackychen.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+    <category term="Leetcode" scheme="https://scnujackychen.github.io/tags/Leetcode/"/>
+    
+    <category term="难题杂烩" scheme="https://scnujackychen.github.io/tags/%E9%9A%BE%E9%A2%98%E6%9D%82%E7%83%A9/"/>
+    
+    <category term="线性DP" scheme="https://scnujackychen.github.io/tags/%E7%BA%BF%E6%80%A7DP/"/>
+    
+    <category term="栈" scheme="https://scnujackychen.github.io/tags/%E6%A0%88/"/>
+    
+  </entry>
   
   <entry>
     <title>LC-30 串联所有单词的子串</title>
