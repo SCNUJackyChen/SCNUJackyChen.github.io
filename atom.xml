@@ -6,7 +6,7 @@
   <link href="https://scnujackychen.github.io/atom.xml" rel="self"/>
   
   <link href="https://scnujackychen.github.io/"/>
-  <updated>2021-03-09T16:24:31.848Z</updated>
+  <updated>2021-03-10T02:09:22.877Z</updated>
   <id>https://scnujackychen.github.io/</id>
   
   <author>
@@ -21,12 +21,14 @@
     <link href="https://scnujackychen.github.io/2021/03/09/permutation/"/>
     <id>https://scnujackychen.github.io/2021/03/09/permutation/</id>
     <published>2021-03-09T15:49:05.000Z</published>
-    <updated>2021-03-09T16:24:31.848Z</updated>
+    <updated>2021-03-10T02:09:22.877Z</updated>
     
     
     <summary type="html">总结排列相关的问题</summary>
     
     
+    
+    <category term="算法" scheme="https://scnujackychen.github.io/categories/%E7%AE%97%E6%B3%95/"/>
     
     
     <category term="Leetcode" scheme="https://scnujackychen.github.io/tags/Leetcode/"/>
