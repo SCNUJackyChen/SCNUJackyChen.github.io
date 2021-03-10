@@ -3,6 +3,7 @@ title: 排列专题( LC-31, 46, 47, 60)
 date: 2021-03-09 23:49:05
 tags: [Leetcode, 排列, DFS, 搜索]
 description: 总结排列相关的问题
+categories: 算法
 katex: true
 ---
 

@@ -49,10 +49,7 @@ social:
     link: https://www.zhihu.com/people/chen-jin-ye-56
     icon: icon-zhihu-line
     color: "#0084FF"
-  - name: 微信公众号
-    link: https://cdn.jsdelivr.net/gh/SCNUJackyChen/SCNUJackyChen.github.io@latest/images/qrcode.jpg
-    icon: icon-wechat-2-line
-    color: "#1AAD19"
+
 
 cursor:
   enable: true
@@ -146,3 +143,5 @@ codeblock:
     light: default
     dark: dark
 
+reward:
+  enable: false
