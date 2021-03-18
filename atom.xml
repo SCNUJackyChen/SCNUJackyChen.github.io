@@ -6,7 +6,7 @@
   <link href="https://scnujackychen.github.io/atom.xml" rel="self"/>
   
   <link href="https://scnujackychen.github.io/"/>
-  <updated>2021-03-14T16:28:56.650Z</updated>
+  <updated>2021-03-18T09:06:46.581Z</updated>
   <id>https://scnujackychen.github.io/</id>
   
   <author>
@@ -15,6 +15,81 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>两道细节拉满的链表题 (LC-143, 148)</title>
+    <link href="https://scnujackychen.github.io/2021/03/18/LC-143-148/"/>
+    <id>https://scnujackychen.github.io/2021/03/18/LC-143-148/</id>
+    <published>2021-03-18T08:07:18.000Z</published>
+    <updated>2021-03-18T09:06:46.581Z</updated>
+    
+    
+    <summary type="html">链表重排，链表排序</summary>
+    
+    
+    
+    <category term="算法" scheme="https://scnujackychen.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+    <category term="Leetcode" scheme="https://scnujackychen.github.io/tags/Leetcode/"/>
+    
+    <category term="难题杂烩" scheme="https://scnujackychen.github.io/tags/%E9%9A%BE%E9%A2%98%E6%9D%82%E7%83%A9/"/>
+    
+    <category term="链表" scheme="https://scnujackychen.github.io/tags/%E9%93%BE%E8%A1%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LC-135 分糖果</title>
+    <link href="https://scnujackychen.github.io/2021/03/18/LC-135/"/>
+    <id>https://scnujackychen.github.io/2021/03/18/LC-135/</id>
+    <published>2021-03-18T04:10:25.000Z</published>
+    <updated>2021-03-18T04:37:10.909Z</updated>
+    
+    
+    <summary type="html">给定一个得分数组，代表每个小朋友的得分，然后给小朋友分糖果，要求相邻2个小朋友中得分高者分得更多的糖果。问最少分多少糖果？</summary>
+    
+    
+    
+    <category term="算法" scheme="https://scnujackychen.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+    <category term="Leetcode" scheme="https://scnujackychen.github.io/tags/Leetcode/"/>
+    
+    <category term="难题杂烩" scheme="https://scnujackychen.github.io/tags/%E9%9A%BE%E9%A2%98%E6%9D%82%E7%83%A9/"/>
+    
+    <category term="记忆化搜索" scheme="https://scnujackychen.github.io/tags/%E8%AE%B0%E5%BF%86%E5%8C%96%E6%90%9C%E7%B4%A2/"/>
+    
+    <category term="贪心" scheme="https://scnujackychen.github.io/tags/%E8%B4%AA%E5%BF%83/"/>
+    
+    <category term="DP" scheme="https://scnujackychen.github.io/tags/DP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>分割回文串 (LC-131, 132)</title>
+    <link href="https://scnujackychen.github.io/2021/03/18/LC-131/"/>
+    <id>https://scnujackychen.github.io/2021/03/18/LC-131/</id>
+    <published>2021-03-18T03:33:59.000Z</published>
+    <updated>2021-03-18T04:05:19.345Z</updated>
+    
+    
+    <summary type="html">给定一个字符串s，求将s分割为若干个回文串的所有方案/最少分割数</summary>
+    
+    
+    
+    <category term="算法" scheme="https://scnujackychen.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+    <category term="Leetcode" scheme="https://scnujackychen.github.io/tags/Leetcode/"/>
+    
+    <category term="字符串DP" scheme="https://scnujackychen.github.io/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2DP/"/>
+    
+    <category term="难题杂烩" scheme="https://scnujackychen.github.io/tags/%E9%9A%BE%E9%A2%98%E6%9D%82%E7%83%A9/"/>
+    
+    <category term="DFS" scheme="https://scnujackychen.github.io/tags/DFS/"/>
+    
+  </entry>
   
   <entry>
     <title>LC-126 单词接龙</title>
