@@ -6,7 +6,7 @@
   <link href="https://scnujackychen.github.io/atom.xml" rel="self"/>
   
   <link href="https://scnujackychen.github.io/"/>
-  <updated>2021-03-21T06:00:32.777Z</updated>
+  <updated>2021-03-22T08:55:26.573Z</updated>
   <id>https://scnujackychen.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>单词拆分 (LC-139, 140)</title>
+    <link href="https://scnujackychen.github.io/2021/03/22/LC-139/"/>
+    <id>https://scnujackychen.github.io/2021/03/22/LC-139/</id>
+    <published>2021-03-22T08:30:37.000Z</published>
+    <updated>2021-03-22T08:55:26.573Z</updated>
+    
+    
+    <summary type="html">给定一组词表和一个字符串s，求s能否拆分成词表中的单词，以及拆分的方案。</summary>
+    
+    
+    
+    <category term="算法" scheme="https://scnujackychen.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+    <category term="Leetcode" scheme="https://scnujackychen.github.io/tags/Leetcode/"/>
+    
+    <category term="DFS" scheme="https://scnujackychen.github.io/tags/DFS/"/>
+    
+    <category term="DP" scheme="https://scnujackychen.github.io/tags/DP/"/>
+    
+    <category term="字符串哈希" scheme="https://scnujackychen.github.io/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%93%88%E5%B8%8C/"/>
+    
+  </entry>
   
   <entry>
     <title>LC 双周赛第48场</title>
