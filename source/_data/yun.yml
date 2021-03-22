@@ -62,7 +62,7 @@ sidebar:
   bg_position: bottom 3rem center
   tagcloud:
     enable: true
-    amount: 20
+    amount: 50
 
 footer:
   since: 2021
