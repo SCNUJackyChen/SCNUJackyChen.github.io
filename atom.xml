@@ -6,7 +6,7 @@
   <link href="https://scnujackychen.github.io/atom.xml" rel="self"/>
   
   <link href="https://scnujackychen.github.io/"/>
-  <updated>2021-03-22T08:55:26.573Z</updated>
+  <updated>2021-03-23T03:28:23.009Z</updated>
   <id>https://scnujackychen.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Excel表名称序列转换 (LC-168, 171)</title>
+    <link href="https://scnujackychen.github.io/2021/03/23/LC-168/"/>
+    <id>https://scnujackychen.github.io/2021/03/23/LC-168/</id>
+    <published>2021-03-23T02:59:04.000Z</published>
+    <updated>2021-03-23T03:28:23.009Z</updated>
+    
+    
+    <summary type="html">将Excel表数字转换为名称，将名称转换为数字</summary>
+    
+    
+    
+    <category term="算法" scheme="https://scnujackychen.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+    <category term="Leetcode" scheme="https://scnujackychen.github.io/tags/Leetcode/"/>
+    
+    <category term="进制转换" scheme="https://scnujackychen.github.io/tags/%E8%BF%9B%E5%88%B6%E8%BD%AC%E6%8D%A2/"/>
+    
+    <category term="字符串" scheme="https://scnujackychen.github.io/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2/"/>
+    
+  </entry>
   
   <entry>
     <title>单词拆分 (LC-139, 140)</title>
