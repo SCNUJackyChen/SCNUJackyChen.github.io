@@ -6,7 +6,7 @@
   <link href="https://scnujackychen.github.io/atom.xml" rel="self"/>
   
   <link href="https://scnujackychen.github.io/"/>
-  <updated>2021-04-06T02:50:01.220Z</updated>
+  <updated>2021-05-16T13:01:38.609Z</updated>
   <id>https://scnujackychen.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>LC 双周赛第52场</title>
+    <link href="https://scnujackychen.github.io/2021/05/16/LC-biweekly-contest-52/"/>
+    <id>https://scnujackychen.github.io/2021/05/16/LC-biweekly-contest-52/</id>
+    <published>2021-05-16T12:27:19.000Z</published>
+    <updated>2021-05-16T13:01:38.609Z</updated>
+    
+    
+    <summary type="html">LC双周赛第52场复盘+题解</summary>
+    
+    
+    
+    <category term="算法" scheme="https://scnujackychen.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+    <category term="Leetcode" scheme="https://scnujackychen.github.io/tags/Leetcode/"/>
+    
+    <category term="思维题" scheme="https://scnujackychen.github.io/tags/%E6%80%9D%E7%BB%B4%E9%A2%98/"/>
+    
+    <category term="模拟" scheme="https://scnujackychen.github.io/tags/%E6%A8%A1%E6%8B%9F/"/>
+    
+    <category term="前缀和" scheme="https://scnujackychen.github.io/tags/%E5%89%8D%E7%BC%80%E5%92%8C/"/>
+    
+  </entry>
   
   <entry>
     <title>LCP-29 乐团站位</title>
@@ -478,29 +503,6 @@
     <category term="哈希" scheme="https://scnujackychen.github.io/tags/%E5%93%88%E5%B8%8C/"/>
     
     <category term="滑动窗口" scheme="https://scnujackychen.github.io/tags/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LC-10 正则表达式匹配</title>
-    <link href="https://scnujackychen.github.io/2021/03/02/LC-10/"/>
-    <id>https://scnujackychen.github.io/2021/03/02/LC-10/</id>
-    <published>2021-03-02T15:27:37.000Z</published>
-    <updated>2021-03-03T02:15:01.440Z</updated>
-    
-    
-    <summary type="html">给定字符串S和模式串P，判断P能否匹配S</summary>
-    
-    
-    
-    <category term="算法" scheme="https://scnujackychen.github.io/categories/%E7%AE%97%E6%B3%95/"/>
-    
-    
-    <category term="Leetcode" scheme="https://scnujackychen.github.io/tags/Leetcode/"/>
-    
-    <category term="字符串DP" scheme="https://scnujackychen.github.io/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2DP/"/>
-    
-    <category term="难题杂烩" scheme="https://scnujackychen.github.io/tags/%E9%9A%BE%E9%A2%98%E6%9D%82%E7%83%A9/"/>
     
   </entry>
   
