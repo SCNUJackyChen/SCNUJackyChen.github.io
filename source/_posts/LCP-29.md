@@ -2,7 +2,7 @@
 title: LCP-29 乐团站位
 date: 2021-04-06 10:37:32
 tags: [Leetcode, 找规律, 数学]
-categories: 算法
+categories: Leetcode周赛
 katex: true
 description: 给定一个方阵，从左上角开始延顺时针螺旋向内填入数字1~9，循环往复。求给定坐标所对应的数字。
 ---

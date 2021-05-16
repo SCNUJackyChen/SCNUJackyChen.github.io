@@ -1,8 +1,8 @@
 ---
 title: LC 双周赛第52场
 date: 2021-05-16 20:27:19
-tags: [Leetcode, 模拟, 思维题, 前缀和]
-categories: 算法
+tags: [Leetcode, 模拟, 思维题]
+categories: Leetcode周赛
 katex: true
 description:  LC双周赛第52场复盘+题解
 ---

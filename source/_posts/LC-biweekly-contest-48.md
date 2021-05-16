@@ -2,7 +2,7 @@
 title: LC 双周赛第48场
 date: 2021-03-21 12:32:25
 tags: [Leetcode, 哈希, 贪心, 状压DP]
-categories: 算法
+categories: Leetcode周赛
 katex: true
 description:  LC双周赛第48场复盘+题解
 ---
