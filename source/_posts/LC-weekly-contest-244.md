@@ -4,6 +4,7 @@ date: 2021-06-06 16:03:14
 tags: [Leetcode, 贪心, 前后缀分解, 二分]
 katex: true
 description: LC周赛第244场复盘+题解
+categories: Leetcode周赛
 ---
 
 ![LC](/images/Leetcode.jpg)
