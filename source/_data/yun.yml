@@ -71,6 +71,9 @@ footer:
     prefix: 本博客已快乐地运行
     suffix: (●'◡'●)
     start_time: "2021-01-27T00:00:00"
+  beian:
+    enable: true
+    icp: 粤ICP备20015588号
 
 wordcloud:
   enable: true
