@@ -55,7 +55,7 @@ public:
         int x = get(a), y = get(b);
         if (x > y) y += 24 * 60;
         x = (x + 15 - 1) / 15, y /= 15;
-        return y - x;
+        return max(0, y - x);
     }
 };
 ```
@@ -141,5 +141,4 @@ public:
     }
 };
 ```
-
 
