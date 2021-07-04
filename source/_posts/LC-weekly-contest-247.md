@@ -4,7 +4,7 @@ date: 2021-07-01 13:42:05
 tags: [Leetcode, 前缀和, 状压, 树形DP, 数论]
 categories: Leetcode周赛
 katex: true
-description:  LC双周赛第54场复盘+题解
+description:  LC周赛第247场复盘+题解
 ---
 
 ![LC](/images/Leetcode.jpg)
