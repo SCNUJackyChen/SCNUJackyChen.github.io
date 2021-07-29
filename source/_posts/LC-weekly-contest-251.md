@@ -107,5 +107,66 @@ public:
 };
 ```
 ##### [删除系统中的重复文件夹](https://leetcode-cn.com/problems/delete-duplicate-folders-in-system/)
-(to be continue...)
+本题实际上考察的是字典树 + 序列化。
+1. 首先确定数据结构，文件系统实际上是多叉树结构。
+2. 如何判断子树是否相同? 如果采用暴力递归的方式，复杂度是不可接受的。这里采用将子树先预处理成字符串的形式（即树的序列化过程），这样可以将一棵子树映射成一个字符串。只需要比较2个字符串是否一致即可判断子树结构是否一致。
+3. 如何删除冗余子树？在序列化时顺便记录每个子树序列出现的次数，在第二遍深搜时，如果发现当前结点所对应的序列出现次数大于1，则不加入答案。
+
 ##### **Code Q4**
+```cpp
+struct Trie {
+    string seq;
+    unordered_map<string, Trie*> children;
+};
+
+class Solution {
+public:
+    unordered_map<string, int> cnt;
+    vector<vector<string>> res;
+
+    void build(Trie* root) {
+        if (root->children.empty()) return;
+        vector<string> s;
+        for (auto& [k, v] : root->children) {
+            build(v);
+            s.push_back(k + "(" + v->seq + ")");
+        }
+        sort(s.begin(), s.end()); // 这里sort是因为可能出现镜像结构
+        for (auto& e : s) {
+            root->seq += e;
+        }
+        cnt[root->seq] ++;
+    }
+
+    void prune(Trie* root, vector<string>& t) {
+        if (cnt[root->seq] > 1) return;
+        if (!t.empty()) res.push_back(t);
+        for (auto& [k, v] : root->children) {
+            t.push_back(k);
+            prune(v, t);
+            t.pop_back();
+        }
+    }
+
+    vector<vector<string>> deleteDuplicateFolder(vector<vector<string>>& paths) {
+    	// 建树
+        auto root = new Trie();
+        for (auto& p : paths) {
+            auto t = root;
+            for (auto& c : p) {
+                if (!t->children.count(c)) 
+                    t->children[c] = new Trie();
+                t = t->children[c];
+            }
+        }
+		// 第一遍序列化
+        build(root);
+		
+		// 第二遍删除子树
+        vector<string> t;
+        prune(root, t);
+
+        return res;
+    }
+};
+```
