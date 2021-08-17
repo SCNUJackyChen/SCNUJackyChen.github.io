@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>PCA</title>
+      <link href="2021/08/17/PCA/"/>
+      <url>2021/08/17/PCA/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="/images/ML/PCA_cover.png" alt="LC" loading="lazy"></p><a id="more"></a><p><a href="https://github.com/SCNUJackyChen/SCNUJackyChen.github.io/blob/main/notebook/PCA.pdf">PDF点这里</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Machine Learning </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> PCA </tag>
+            
+            <tag> ML </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>LC 周赛第254场</title>
       <link href="2021/08/15/LC-weekly-contest-254/"/>
       <url>2021/08/15/LC-weekly-contest-254/</url>

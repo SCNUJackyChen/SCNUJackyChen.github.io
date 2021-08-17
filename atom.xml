@@ -6,7 +6,7 @@
   <link href="https://scnujackychen.github.io/atom.xml" rel="self"/>
   
   <link href="https://scnujackychen.github.io/"/>
-  <updated>2021-08-17T14:28:08.445Z</updated>
+  <updated>2021-08-17T14:41:08.144Z</updated>
   <id>https://scnujackychen.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>PCA</title>
+    <link href="https://scnujackychen.github.io/2021/08/17/PCA/"/>
+    <id>https://scnujackychen.github.io/2021/08/17/PCA/</id>
+    <published>2021-08-17T14:33:53.000Z</published>
+    <updated>2021-08-17T14:41:08.144Z</updated>
+    
+    
+    <summary type="html">PCA原理分析及推导</summary>
+    
+    
+    
+    <category term="Machine Learning" scheme="https://scnujackychen.github.io/categories/Machine-Learning/"/>
+    
+    
+    <category term="PCA" scheme="https://scnujackychen.github.io/tags/PCA/"/>
+    
+    <category term="ML" scheme="https://scnujackychen.github.io/tags/ML/"/>
+    
+  </entry>
   
   <entry>
     <title>LC 周赛第254场</title>
@@ -500,29 +521,6 @@
     <category term="思维题" scheme="https://scnujackychen.github.io/tags/%E6%80%9D%E7%BB%B4%E9%A2%98/"/>
     
     <category term="模拟" scheme="https://scnujackychen.github.io/tags/%E6%A8%A1%E6%8B%9F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LCP-29 乐团站位</title>
-    <link href="https://scnujackychen.github.io/2021/04/06/LCP-29/"/>
-    <id>https://scnujackychen.github.io/2021/04/06/LCP-29/</id>
-    <published>2021-04-06T02:37:32.000Z</published>
-    <updated>2021-05-16T16:26:56.641Z</updated>
-    
-    
-    <summary type="html">给定一个方阵，从左上角开始延顺时针螺旋向内填入数字1~9，循环往复。求给定坐标所对应的数字。</summary>
-    
-    
-    
-    <category term="Leetcode周赛" scheme="https://scnujackychen.github.io/categories/Leetcode%E5%91%A8%E8%B5%9B/"/>
-    
-    
-    <category term="Leetcode" scheme="https://scnujackychen.github.io/tags/Leetcode/"/>
-    
-    <category term="找规律" scheme="https://scnujackychen.github.io/tags/%E6%89%BE%E8%A7%84%E5%BE%8B/"/>
-    
-    <category term="数学" scheme="https://scnujackychen.github.io/tags/%E6%95%B0%E5%AD%A6/"/>
     
   </entry>
   
