@@ -148,3 +148,7 @@ codeblock:
 
 reward:
   enable: false
+
+albums:
+  enable: true
+
