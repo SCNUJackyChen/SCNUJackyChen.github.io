@@ -13,4 +13,4 @@ description:  PCA原理分析及推导
 
 
 
-[PDF点这里](https://github.com/SCNUJackyChen/SCNUJackyChen.github.io/blob/main/notebook/PCA.pdf)
+[PDF点这里](/notebook/PCA.pdf)
