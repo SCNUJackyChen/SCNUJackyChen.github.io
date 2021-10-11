@@ -6,7 +6,7 @@
   <link href="https://scnujackychen.github.io/atom.xml" rel="self"/>
   
   <link href="https://scnujackychen.github.io/"/>
-  <updated>2021-08-24T10:20:06.922Z</updated>
+  <updated>2021-10-11T06:42:18.268Z</updated>
   <id>https://scnujackychen.github.io/</id>
   
   <author>
@@ -15,6 +15,73 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>LC weekly contest 262</title>
+    <link href="https://scnujackychen.github.io/2021/10/11/LC-weekly-contest-262/"/>
+    <id>https://scnujackychen.github.io/2021/10/11/LC-weekly-contest-262/</id>
+    <published>2021-10-11T04:17:48.000Z</published>
+    <updated>2021-10-11T06:42:18.268Z</updated>
+    
+    
+    <summary type="html">review and solution for LC weekly contest 262</summary>
+    
+    
+    
+    <category term="Leetcode周赛" scheme="https://scnujackychen.github.io/categories/Leetcode%E5%91%A8%E8%B5%9B/"/>
+    
+    
+    <category term="Leetcode" scheme="https://scnujackychen.github.io/tags/Leetcode/"/>
+    
+    <category term="贪心" scheme="https://scnujackychen.github.io/tags/%E8%B4%AA%E5%BF%83/"/>
+    
+    <category term="二分" scheme="https://scnujackychen.github.io/tags/%E4%BA%8C%E5%88%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我成阴阳人了？</title>
+    <link href="https://scnujackychen.github.io/2021/09/11/Singapore-serology-test/"/>
+    <id>https://scnujackychen.github.io/2021/09/11/Singapore-serology-test/</id>
+    <published>2021-09-11T14:13:31.000Z</published>
+    <updated>2021-10-11T06:42:27.320Z</updated>
+    
+    
+    <summary type="html">我在新加坡的维权之路</summary>
+    
+    
+    
+    <category term="留学生活" scheme="https://scnujackychen.github.io/categories/%E7%95%99%E5%AD%A6%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="抗体检测" scheme="https://scnujackychen.github.io/tags/%E6%8A%97%E4%BD%93%E6%A3%80%E6%B5%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LC 双周赛第60场</title>
+    <link href="https://scnujackychen.github.io/2021/09/06/LC-biweekly-contest-60/"/>
+    <id>https://scnujackychen.github.io/2021/09/06/LC-biweekly-contest-60/</id>
+    <published>2021-09-06T15:34:28.000Z</published>
+    <updated>2021-09-11T14:10:17.283Z</updated>
+    
+    
+    <summary type="html">LC双周赛第60场复盘+题解</summary>
+    
+    
+    
+    <category term="Leetcode周赛" scheme="https://scnujackychen.github.io/categories/Leetcode%E5%91%A8%E8%B5%9B/"/>
+    
+    
+    <category term="Leetcode" scheme="https://scnujackychen.github.io/tags/Leetcode/"/>
+    
+    <category term="DFS" scheme="https://scnujackychen.github.io/tags/DFS/"/>
+    
+    <category term="前缀和" scheme="https://scnujackychen.github.io/tags/%E5%89%8D%E7%BC%80%E5%92%8C/"/>
+    
+    <category term="最大独立集" scheme="https://scnujackychen.github.io/tags/%E6%9C%80%E5%A4%A7%E7%8B%AC%E7%AB%8B%E9%9B%86/"/>
+    
+  </entry>
   
   <entry>
     <title>LC 周赛第255场</title>
@@ -462,75 +529,6 @@
     <category term="DP" scheme="https://scnujackychen.github.io/tags/DP/"/>
     
     <category term="堆" scheme="https://scnujackychen.github.io/tags/%E5%A0%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LC 双周赛第53场</title>
-    <link href="https://scnujackychen.github.io/2021/05/30/LC-biweekly-contest-53/"/>
-    <id>https://scnujackychen.github.io/2021/05/30/LC-biweekly-contest-53/</id>
-    <published>2021-05-30T02:18:24.000Z</published>
-    <updated>2021-05-30T10:39:12.885Z</updated>
-    
-    
-    <summary type="html">LC双周赛第53场复盘+题解</summary>
-    
-    
-    
-    <category term="Leetcode周赛" scheme="https://scnujackychen.github.io/categories/Leetcode%E5%91%A8%E8%B5%9B/"/>
-    
-    
-    <category term="Leetcode" scheme="https://scnujackychen.github.io/tags/Leetcode/"/>
-    
-    <category term="贪心" scheme="https://scnujackychen.github.io/tags/%E8%B4%AA%E5%BF%83/"/>
-    
-    <category term="状压DP" scheme="https://scnujackychen.github.io/tags/%E7%8A%B6%E5%8E%8BDP/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LC 周赛第242场</title>
-    <link href="https://scnujackychen.github.io/2021/05/23/LC-weekly-contest-242/"/>
-    <id>https://scnujackychen.github.io/2021/05/23/LC-weekly-contest-242/</id>
-    <published>2021-05-23T10:09:33.000Z</published>
-    <updated>2021-05-23T11:05:54.597Z</updated>
-    
-    
-    <summary type="html">LC周赛第242场复盘+题解</summary>
-    
-    
-    
-    <category term="Leetcode周赛" scheme="https://scnujackychen.github.io/categories/Leetcode%E5%91%A8%E8%B5%9B/"/>
-    
-    
-    <category term="Leetcode" scheme="https://scnujackychen.github.io/tags/Leetcode/"/>
-    
-    <category term="DP" scheme="https://scnujackychen.github.io/tags/DP/"/>
-    
-    <category term="二分" scheme="https://scnujackychen.github.io/tags/%E4%BA%8C%E5%88%86/"/>
-    
-    <category term="前缀和" scheme="https://scnujackychen.github.io/tags/%E5%89%8D%E7%BC%80%E5%92%8C/"/>
-    
-    <category term="博弈论" scheme="https://scnujackychen.github.io/tags/%E5%8D%9A%E5%BC%88%E8%AE%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Trie树</title>
-    <link href="https://scnujackychen.github.io/2021/05/17/trie/"/>
-    <id>https://scnujackychen.github.io/2021/05/17/trie/</id>
-    <published>2021-05-17T12:35:33.000Z</published>
-    <updated>2021-05-17T15:30:29.392Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/template/trie.png&quot; alt=&quot;trie&quot;&gt;&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="模板题" scheme="https://scnujackychen.github.io/categories/%E6%A8%A1%E6%9D%BF%E9%A2%98/"/>
-    
-    
-    <category term="trie" scheme="https://scnujackychen.github.io/tags/trie/"/>
     
   </entry>
   
