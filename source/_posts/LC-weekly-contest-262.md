@@ -176,6 +176,14 @@ Now, our question is equal to, find 2 valid (the total length is $n$) combinaton
 
 Since the original array is equally divided into 2 parts, we now can do the brute-force. Then we preprocess the array of sum by sorting. Finally we can apply binary search to find the closest sum.
 
+*Similar question*
+[1755. 最接近目标值的子序列和](https://leetcode-cn.com/problems/closest-subsequence-sum/)
+
+*When the range of array element is small (e.g less than $10^5$), this problem can be solved by treating it as a 0/1 knapsack problem, the complexity will be $O(n^2k)$, where $k$ is the range.*
+[1049. 最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii/)
+
+
+
 ##### **Code Q4**
 ```cpp
 class Solution {
