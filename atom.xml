@@ -6,7 +6,7 @@
   <link href="https://scnujackychen.github.io/atom.xml" rel="self"/>
   
   <link href="https://scnujackychen.github.io/"/>
-  <updated>2021-11-04T07:05:59.605Z</updated>
+  <updated>2021-11-26T10:16:58.166Z</updated>
   <id>https://scnujackychen.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Backpropogation Through Time</title>
+    <link href="https://scnujackychen.github.io/2021/11/26/BPTT/"/>
+    <id>https://scnujackychen.github.io/2021/11/26/BPTT/</id>
+    <published>2021-11-26T09:57:53.000Z</published>
+    <updated>2021-11-26T10:16:58.166Z</updated>
+    
+    
+    <summary type="html">BPTT formula derivation</summary>
+    
+    
+    
+    <category term="Machine Learning" scheme="https://scnujackychen.github.io/categories/Machine-Learning/"/>
+    
+    
+    <category term="ML" scheme="https://scnujackychen.github.io/tags/ML/"/>
+    
+    <category term="RNN" scheme="https://scnujackychen.github.io/tags/RNN/"/>
+    
+    <category term="BPTT" scheme="https://scnujackychen.github.io/tags/BPTT/"/>
+    
+  </entry>
   
   <entry>
     <title>YOLOv5 Training Using Custom Dataset</title>
@@ -498,31 +521,6 @@
     <category term="前缀和" scheme="https://scnujackychen.github.io/tags/%E5%89%8D%E7%BC%80%E5%92%8C/"/>
     
     <category term="树形DP" scheme="https://scnujackychen.github.io/tags/%E6%A0%91%E5%BD%A2DP/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LC 周赛第244场</title>
-    <link href="https://scnujackychen.github.io/2021/06/06/LC-weekly-contest-244/"/>
-    <id>https://scnujackychen.github.io/2021/06/06/LC-weekly-contest-244/</id>
-    <published>2021-06-06T08:03:14.000Z</published>
-    <updated>2021-06-06T10:20:46.468Z</updated>
-    
-    
-    <summary type="html">LC周赛第244场复盘+题解</summary>
-    
-    
-    
-    <category term="Leetcode周赛" scheme="https://scnujackychen.github.io/categories/Leetcode%E5%91%A8%E8%B5%9B/"/>
-    
-    
-    <category term="Leetcode" scheme="https://scnujackychen.github.io/tags/Leetcode/"/>
-    
-    <category term="前后缀分解" scheme="https://scnujackychen.github.io/tags/%E5%89%8D%E5%90%8E%E7%BC%80%E5%88%86%E8%A7%A3/"/>
-    
-    <category term="贪心" scheme="https://scnujackychen.github.io/tags/%E8%B4%AA%E5%BF%83/"/>
-    
-    <category term="二分" scheme="https://scnujackychen.github.io/tags/%E4%BA%8C%E5%88%86/"/>
     
   </entry>
   
