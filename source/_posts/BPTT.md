@@ -1,5 +1,5 @@
 ---
-title: Backpropogation Through Time
+title: Backpropagation Through Time
 date: 2021-11-26 17:57:53
 tags:  [RNN, ML, BPTT]
 categories: Machine Learning
@@ -22,3 +22,4 @@ I read a lot of Chinese tutorials online about BPTT, but unfortunately, they all
 # Reference
 1. [Training RNNs - Loss and BPTT](https://www.youtube.com/watch?v=RrB605Mbpic)
 2. [Deep Learning 64: (Part B) Backpropgtation in Time (BPTT) for Recurrent Neural Network (RNN)](https://www.youtube.com/watch?v=phOVApJHjsU)
+
