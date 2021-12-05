@@ -6,7 +6,7 @@
   <link href="https://scnujackychen.github.io/atom.xml" rel="self"/>
   
   <link href="https://scnujackychen.github.io/"/>
-  <updated>2021-11-28T09:13:04.795Z</updated>
+  <updated>2021-12-05T16:40:30.608Z</updated>
   <id>https://scnujackychen.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ACWing-weekly-contest-28</title>
+    <link href="https://scnujackychen.github.io/2021/12/05/ACWing-weekly-contest-28/"/>
+    <id>https://scnujackychen.github.io/2021/12/05/ACWing-weekly-contest-28/</id>
+    <published>2021-12-05T15:07:37.000Z</published>
+    <updated>2021-12-05T16:40:30.608Z</updated>
+    
+    
+    <summary type="html">ACWing 周赛第28场题解</summary>
+    
+    
+    
+    <category term="算法" scheme="https://scnujackychen.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+    <category term="数论" scheme="https://scnujackychen.github.io/tags/%E6%95%B0%E8%AE%BA/"/>
+    
+    <category term="并查集" scheme="https://scnujackychen.github.io/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/"/>
+    
+  </entry>
   
   <entry>
     <title>LC biweekly contest 66</title>
@@ -494,31 +515,6 @@
     <category term="思维题" scheme="https://scnujackychen.github.io/tags/%E6%80%9D%E7%BB%B4%E9%A2%98/"/>
     
     <category term="绝对值不等式" scheme="https://scnujackychen.github.io/tags/%E7%BB%9D%E5%AF%B9%E5%80%BC%E4%B8%8D%E7%AD%89%E5%BC%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LC 周赛第246场</title>
-    <link href="https://scnujackychen.github.io/2021/06/20/LC-weekly-contest-246/"/>
-    <id>https://scnujackychen.github.io/2021/06/20/LC-weekly-contest-246/</id>
-    <published>2021-06-20T09:27:44.000Z</published>
-    <updated>2021-06-20T15:43:26.113Z</updated>
-    
-    
-    <summary type="html">LC周赛第246场复盘+题解</summary>
-    
-    
-    
-    <category term="Leetcode周赛" scheme="https://scnujackychen.github.io/categories/Leetcode%E5%91%A8%E8%B5%9B/"/>
-    
-    
-    <category term="Leetcode" scheme="https://scnujackychen.github.io/tags/Leetcode/"/>
-    
-    <category term="DFS" scheme="https://scnujackychen.github.io/tags/DFS/"/>
-    
-    <category term="模拟" scheme="https://scnujackychen.github.io/tags/%E6%A8%A1%E6%8B%9F/"/>
-    
-    <category term="前缀和" scheme="https://scnujackychen.github.io/tags/%E5%89%8D%E7%BC%80%E5%92%8C/"/>
     
   </entry>
   
