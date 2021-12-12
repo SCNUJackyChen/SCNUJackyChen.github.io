@@ -6,7 +6,7 @@
   <link href="https://scnujackychen.github.io/atom.xml" rel="self"/>
   
   <link href="https://scnujackychen.github.io/"/>
-  <updated>2021-12-12T07:06:39.064Z</updated>
+  <updated>2021-12-12T12:25:06.030Z</updated>
   <id>https://scnujackychen.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://scnujackychen.github.io/2021/12/12/LC-weekly-contest-271/"/>
     <id>https://scnujackychen.github.io/2021/12/12/LC-weekly-contest-271/</id>
     <published>2021-12-12T06:27:26.000Z</published>
-    <updated>2021-12-12T07:06:39.064Z</updated>
+    <updated>2021-12-12T12:25:06.030Z</updated>
     
     
     <summary type="html">LC 周赛第271场题解</summary>
@@ -33,7 +33,9 @@
     
     <category term="Leetcode" scheme="https://scnujackychen.github.io/tags/Leetcode/"/>
     
-    <category term="模拟，前缀和" scheme="https://scnujackychen.github.io/tags/%E6%A8%A1%E6%8B%9F%EF%BC%8C%E5%89%8D%E7%BC%80%E5%92%8C/"/>
+    <category term="模拟" scheme="https://scnujackychen.github.io/tags/%E6%A8%A1%E6%8B%9F/"/>
+    
+    <category term="前缀和" scheme="https://scnujackychen.github.io/tags/%E5%89%8D%E7%BC%80%E5%92%8C/"/>
     
   </entry>
   
