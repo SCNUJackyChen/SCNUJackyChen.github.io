@@ -1,5 +1,5 @@
 ---
-title: LC-weekly-contest-271
+title: LC weekly contest 271
 date: 2021-12-12 14:27:26
 tags: [Leetcode, 模拟, 前缀和]
 categories: Leetcode周赛

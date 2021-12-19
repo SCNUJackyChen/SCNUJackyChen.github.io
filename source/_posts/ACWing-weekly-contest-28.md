@@ -1,5 +1,5 @@
 ---
-title: ACWing-weekly-contest-28
+title: ACWing weekly contest 28
 date: 2021-12-05 23:07:37
 tags: [数论, 并查集]
 categories: 算法

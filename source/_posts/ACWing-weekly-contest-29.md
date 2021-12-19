@@ -1,5 +1,5 @@
 ---
-title: ACWing-weekly-contest-29
+title: ACWing weekly contest 29
 date: 2021-12-12 13:41:58
 tags: [离散化, 差分]
 categories: 算法
