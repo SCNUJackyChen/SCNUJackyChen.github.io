@@ -123,7 +123,7 @@ aplayer:
 
 katex:
   copy_tex: true
-  global: false
+  global: true
 
 github_discussions:
   enable: true
@@ -151,4 +151,3 @@ reward:
 
 albums:
   enable: true
-
