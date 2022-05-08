@@ -6,7 +6,7 @@
   <link href="https://scnujackychen.github.io/atom.xml" rel="self"/>
   
   <link href="https://scnujackychen.github.io/"/>
-  <updated>2022-02-09T16:17:35.195Z</updated>
+  <updated>2022-05-08T09:07:52.061Z</updated>
   <id>https://scnujackychen.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>LC weekly contest 292</title>
+    <link href="https://scnujackychen.github.io/2022/05/08/LC-weekly-contest-292/"/>
+    <id>https://scnujackychen.github.io/2022/05/08/LC-weekly-contest-292/</id>
+    <published>2022-05-08T07:46:21.000Z</published>
+    <updated>2022-05-08T09:07:52.061Z</updated>
+    
+    
+    <summary type="html">LC 周赛第292场题解</summary>
+    
+    
+    
+    <category term="Leetcode周赛" scheme="https://scnujackychen.github.io/categories/Leetcode%E5%91%A8%E8%B5%9B/"/>
+    
+    
+    <category term="Leetcode" scheme="https://scnujackychen.github.io/tags/Leetcode/"/>
+    
+    <category term="DFS" scheme="https://scnujackychen.github.io/tags/DFS/"/>
+    
+    <category term="记忆化搜索" scheme="https://scnujackychen.github.io/tags/%E8%AE%B0%E5%BF%86%E5%8C%96%E6%90%9C%E7%B4%A2/"/>
+    
+    <category term="DP" scheme="https://scnujackychen.github.io/tags/DP/"/>
+    
+  </entry>
   
   <entry>
     <title>LC weekly contest 279</title>
@@ -472,35 +497,6 @@
     <category term="PCA" scheme="https://scnujackychen.github.io/tags/PCA/"/>
     
     <category term="ML" scheme="https://scnujackychen.github.io/tags/ML/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LC 周赛第254场</title>
-    <link href="https://scnujackychen.github.io/2021/08/15/LC-weekly-contest-254/"/>
-    <id>https://scnujackychen.github.io/2021/08/15/LC-weekly-contest-254/</id>
-    <published>2021-08-15T08:21:04.000Z</published>
-    <updated>2021-08-17T14:28:08.445Z</updated>
-    
-    
-    <summary type="html">LC周赛第254场复盘+题解</summary>
-    
-    
-    
-    <category term="Leetcode周赛" scheme="https://scnujackychen.github.io/categories/Leetcode%E5%91%A8%E8%B5%9B/"/>
-    
-    
-    <category term="Leetcode" scheme="https://scnujackychen.github.io/tags/Leetcode/"/>
-    
-    <category term="BFS" scheme="https://scnujackychen.github.io/tags/BFS/"/>
-    
-    <category term="贪心" scheme="https://scnujackychen.github.io/tags/%E8%B4%AA%E5%BF%83/"/>
-    
-    <category term="模拟" scheme="https://scnujackychen.github.io/tags/%E6%A8%A1%E6%8B%9F/"/>
-    
-    <category term="二分" scheme="https://scnujackychen.github.io/tags/%E4%BA%8C%E5%88%86/"/>
-    
-    <category term="快速幂" scheme="https://scnujackychen.github.io/tags/%E5%BF%AB%E9%80%9F%E5%B9%82/"/>
     
   </entry>
   
