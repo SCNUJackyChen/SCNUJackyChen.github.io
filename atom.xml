@@ -6,7 +6,7 @@
   <link href="https://scnujackychen.github.io/atom.xml" rel="self"/>
   
   <link href="https://scnujackychen.github.io/"/>
-  <updated>2022-05-08T09:07:52.061Z</updated>
+  <updated>2022-05-21T08:15:23.262Z</updated>
   <id>https://scnujackychen.github.io/</id>
   
   <author>
@@ -15,6 +15,56 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>LC weekly contest 293</title>
+    <link href="https://scnujackychen.github.io/2022/05/21/LC-weekly-contest-293/"/>
+    <id>https://scnujackychen.github.io/2022/05/21/LC-weekly-contest-293/</id>
+    <published>2022-05-21T07:15:38.000Z</published>
+    <updated>2022-05-21T08:15:23.262Z</updated>
+    
+    
+    <summary type="html">LC 周赛第293场题解</summary>
+    
+    
+    
+    <category term="Leetcode周赛" scheme="https://scnujackychen.github.io/categories/Leetcode%E5%91%A8%E8%B5%9B/"/>
+    
+    
+    <category term="Leetcode" scheme="https://scnujackychen.github.io/tags/Leetcode/"/>
+    
+    <category term="模拟" scheme="https://scnujackychen.github.io/tags/%E6%A8%A1%E6%8B%9F/"/>
+    
+    <category term="区间合并" scheme="https://scnujackychen.github.io/tags/%E5%8C%BA%E9%97%B4%E5%90%88%E5%B9%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LC biweekly contest 78</title>
+    <link href="https://scnujackychen.github.io/2022/05/21/LC-biweekly-contest-78/"/>
+    <id>https://scnujackychen.github.io/2022/05/21/LC-biweekly-contest-78/</id>
+    <published>2022-05-21T06:01:03.000Z</published>
+    <updated>2022-05-21T07:14:15.688Z</updated>
+    
+    
+    <summary type="html">LC 双周赛第78场题解</summary>
+    
+    
+    
+    <category term="Leetcode周赛" scheme="https://scnujackychen.github.io/categories/Leetcode%E5%91%A8%E8%B5%9B/"/>
+    
+    
+    <category term="Leetcode" scheme="https://scnujackychen.github.io/tags/Leetcode/"/>
+    
+    <category term="贪心" scheme="https://scnujackychen.github.io/tags/%E8%B4%AA%E5%BF%83/"/>
+    
+    <category term="DP" scheme="https://scnujackychen.github.io/tags/DP/"/>
+    
+    <category term="二分" scheme="https://scnujackychen.github.io/tags/%E4%BA%8C%E5%88%86/"/>
+    
+    <category term="前缀和" scheme="https://scnujackychen.github.io/tags/%E5%89%8D%E7%BC%80%E5%92%8C/"/>
+    
+  </entry>
   
   <entry>
     <title>LC weekly contest 292</title>
@@ -443,60 +493,6 @@
     <category term="数学" scheme="https://scnujackychen.github.io/tags/%E6%95%B0%E5%AD%A6/"/>
     
     <category term="GCD" scheme="https://scnujackychen.github.io/tags/GCD/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LC 双周赛第59场</title>
-    <link href="https://scnujackychen.github.io/2021/08/24/LC-biweekly-contest-59/"/>
-    <id>https://scnujackychen.github.io/2021/08/24/LC-biweekly-contest-59/</id>
-    <published>2021-08-24T03:14:21.000Z</published>
-    <updated>2021-08-24T09:57:55.229Z</updated>
-    
-    
-    <summary type="html">LC双周赛第59场复盘+题解</summary>
-    
-    
-    
-    <category term="Leetcode周赛" scheme="https://scnujackychen.github.io/categories/Leetcode%E5%91%A8%E8%B5%9B/"/>
-    
-    
-    <category term="Leetcode" scheme="https://scnujackychen.github.io/tags/Leetcode/"/>
-    
-    <category term="字符串DP" scheme="https://scnujackychen.github.io/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2DP/"/>
-    
-    <category term="DFS" scheme="https://scnujackychen.github.io/tags/DFS/"/>
-    
-    <category term="找规律" scheme="https://scnujackychen.github.io/tags/%E6%89%BE%E8%A7%84%E5%BE%8B/"/>
-    
-    <category term="模拟" scheme="https://scnujackychen.github.io/tags/%E6%A8%A1%E6%8B%9F/"/>
-    
-    <category term="前缀和" scheme="https://scnujackychen.github.io/tags/%E5%89%8D%E7%BC%80%E5%92%8C/"/>
-    
-    <category term="最短路" scheme="https://scnujackychen.github.io/tags/%E6%9C%80%E7%9F%AD%E8%B7%AF/"/>
-    
-    <category term="LCP" scheme="https://scnujackychen.github.io/tags/LCP/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>PCA</title>
-    <link href="https://scnujackychen.github.io/2021/08/17/PCA/"/>
-    <id>https://scnujackychen.github.io/2021/08/17/PCA/</id>
-    <published>2021-08-17T14:33:53.000Z</published>
-    <updated>2021-08-18T02:26:44.900Z</updated>
-    
-    
-    <summary type="html">PCA原理分析及推导</summary>
-    
-    
-    
-    <category term="Machine Learning" scheme="https://scnujackychen.github.io/categories/Machine-Learning/"/>
-    
-    
-    <category term="PCA" scheme="https://scnujackychen.github.io/tags/PCA/"/>
-    
-    <category term="ML" scheme="https://scnujackychen.github.io/tags/ML/"/>
     
   </entry>
   
