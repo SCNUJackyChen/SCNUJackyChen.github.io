@@ -6,7 +6,7 @@
   <link href="https://scnujackychen.github.io/atom.xml" rel="self"/>
   
   <link href="https://scnujackychen.github.io/"/>
-  <updated>2022-05-21T08:15:23.262Z</updated>
+  <updated>2022-06-16T10:50:10.503Z</updated>
   <id>https://scnujackychen.github.io/</id>
   
   <author>
@@ -15,6 +15,154 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>LC biweekly contest 80</title>
+    <link href="https://scnujackychen.github.io/2022/06/16/LC-biweekly-contest-80/"/>
+    <id>https://scnujackychen.github.io/2022/06/16/LC-biweekly-contest-80/</id>
+    <published>2022-06-16T10:01:20.000Z</published>
+    <updated>2022-06-16T10:50:10.503Z</updated>
+    
+    
+    <summary type="html">🎉解锁新成就 Knight🎉</summary>
+    
+    
+    
+    <category term="Leetcode周赛" scheme="https://scnujackychen.github.io/categories/Leetcode%E5%91%A8%E8%B5%9B/"/>
+    
+    
+    <category term="Leetcode" scheme="https://scnujackychen.github.io/tags/Leetcode/"/>
+    
+    <category term="哈希" scheme="https://scnujackychen.github.io/tags/%E5%93%88%E5%B8%8C/"/>
+    
+    <category term="滑动窗口" scheme="https://scnujackychen.github.io/tags/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/"/>
+    
+    <category term="二分" scheme="https://scnujackychen.github.io/tags/%E4%BA%8C%E5%88%86/"/>
+    
+    <category term="前缀和" scheme="https://scnujackychen.github.io/tags/%E5%89%8D%E7%BC%80%E5%92%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LC weekly contest 296</title>
+    <link href="https://scnujackychen.github.io/2022/06/16/LC-weekly-contest-296/"/>
+    <id>https://scnujackychen.github.io/2022/06/16/LC-weekly-contest-296/</id>
+    <published>2022-06-16T09:55:27.000Z</published>
+    <updated>2022-06-16T09:59:38.506Z</updated>
+    
+    
+    <summary type="html">LC 周赛第296场题解</summary>
+    
+    
+    
+    <category term="Leetcode周赛" scheme="https://scnujackychen.github.io/categories/Leetcode%E5%91%A8%E8%B5%9B/"/>
+    
+    
+    <category term="Leetcode" scheme="https://scnujackychen.github.io/tags/Leetcode/"/>
+    
+    <category term="对顶栈" scheme="https://scnujackychen.github.io/tags/%E5%AF%B9%E9%A1%B6%E6%A0%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LC weekly contest 295</title>
+    <link href="https://scnujackychen.github.io/2022/06/16/LC-weekly-contest-295/"/>
+    <id>https://scnujackychen.github.io/2022/06/16/LC-weekly-contest-295/</id>
+    <published>2022-06-16T08:12:34.000Z</published>
+    <updated>2022-06-16T09:56:10.120Z</updated>
+    
+    
+    <summary type="html">LC 周赛第295场题解</summary>
+    
+    
+    
+    <category term="Leetcode周赛" scheme="https://scnujackychen.github.io/categories/Leetcode%E5%91%A8%E8%B5%9B/"/>
+    
+    
+    <category term="Leetcode" scheme="https://scnujackychen.github.io/tags/Leetcode/"/>
+    
+    <category term="BFS" scheme="https://scnujackychen.github.io/tags/BFS/"/>
+    
+    <category term="单调栈" scheme="https://scnujackychen.github.io/tags/%E5%8D%95%E8%B0%83%E6%A0%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LC biweekly contest 79</title>
+    <link href="https://scnujackychen.github.io/2022/06/16/LC-biweekly-contest-79/"/>
+    <id>https://scnujackychen.github.io/2022/06/16/LC-biweekly-contest-79/</id>
+    <published>2022-06-16T03:13:15.000Z</published>
+    <updated>2022-06-16T09:56:08.887Z</updated>
+    
+    
+    <summary type="html">LC 双周赛第79场题解</summary>
+    
+    
+    
+    <category term="Leetcode周赛" scheme="https://scnujackychen.github.io/categories/Leetcode%E5%91%A8%E8%B5%9B/"/>
+    
+    
+    <category term="Leetcode" scheme="https://scnujackychen.github.io/tags/Leetcode/"/>
+    
+    <category term="二分" scheme="https://scnujackychen.github.io/tags/%E4%BA%8C%E5%88%86/"/>
+    
+    <category term="线段树" scheme="https://scnujackychen.github.io/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LC weekly contest 294</title>
+    <link href="https://scnujackychen.github.io/2022/06/05/LC-weekly-contest-294/"/>
+    <id>https://scnujackychen.github.io/2022/06/05/LC-weekly-contest-294/</id>
+    <published>2022-06-05T15:40:23.000Z</published>
+    <updated>2022-06-05T17:05:48.425Z</updated>
+    
+    
+    <summary type="html">LC 周赛第294场题解</summary>
+    
+    
+    
+    <category term="Leetcode周赛" scheme="https://scnujackychen.github.io/categories/Leetcode%E5%91%A8%E8%B5%9B/"/>
+    
+    
+    <category term="Leetcode" scheme="https://scnujackychen.github.io/tags/Leetcode/"/>
+    
+    <category term="单调栈" scheme="https://scnujackychen.github.io/tags/%E5%8D%95%E8%B0%83%E6%A0%88/"/>
+    
+    <category term="数学" scheme="https://scnujackychen.github.io/tags/%E6%95%B0%E5%AD%A6/"/>
+    
+    <category term="模拟" scheme="https://scnujackychen.github.io/tags/%E6%A8%A1%E6%8B%9F/"/>
+    
+    <category term="前缀和" scheme="https://scnujackychen.github.io/tags/%E5%89%8D%E7%BC%80%E5%92%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Challenge U Indeed Coding Competition Spring 2022</title>
+    <link href="https://scnujackychen.github.io/2022/05/21/Challenge-U-Indeed-Coding-Competition-Spring-2022/"/>
+    <id>https://scnujackychen.github.io/2022/05/21/Challenge-U-Indeed-Coding-Competition-Spring-2022/</id>
+    <published>2022-05-21T09:59:26.000Z</published>
+    <updated>2022-06-05T15:39:09.057Z</updated>
+    
+    
+    <summary type="html">新加坡Indeed校园编程比赛Rank 9复盘</summary>
+    
+    
+    
+    <category term="算法" scheme="https://scnujackychen.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+    <category term="Leetcode" scheme="https://scnujackychen.github.io/tags/Leetcode/"/>
+    
+    <category term="贪心" scheme="https://scnujackychen.github.io/tags/%E8%B4%AA%E5%BF%83/"/>
+    
+    <category term="DP" scheme="https://scnujackychen.github.io/tags/DP/"/>
+    
+    <category term="二分" scheme="https://scnujackychen.github.io/tags/%E4%BA%8C%E5%88%86/"/>
+    
+    <category term="前缀和" scheme="https://scnujackychen.github.io/tags/%E5%89%8D%E7%BC%80%E5%92%8C/"/>
+    
+  </entry>
   
   <entry>
     <title>LC weekly contest 293</title>
@@ -44,7 +192,7 @@
     <link href="https://scnujackychen.github.io/2022/05/21/LC-biweekly-contest-78/"/>
     <id>https://scnujackychen.github.io/2022/05/21/LC-biweekly-contest-78/</id>
     <published>2022-05-21T06:01:03.000Z</published>
-    <updated>2022-05-21T07:14:15.688Z</updated>
+    <updated>2022-05-21T10:00:39.320Z</updated>
     
     
     <summary type="html">LC 双周赛第78场题解</summary>
@@ -359,140 +507,6 @@
     <category term="二分" scheme="https://scnujackychen.github.io/tags/%E4%BA%8C%E5%88%86/"/>
     
     <category term="背包问题" scheme="https://scnujackychen.github.io/tags/%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Backpropagation Through Time</title>
-    <link href="https://scnujackychen.github.io/2021/11/26/BPTT/"/>
-    <id>https://scnujackychen.github.io/2021/11/26/BPTT/</id>
-    <published>2021-11-26T09:57:53.000Z</published>
-    <updated>2021-11-27T04:22:24.480Z</updated>
-    
-    
-    <summary type="html">BPTT formula derivation</summary>
-    
-    
-    
-    <category term="Machine Learning" scheme="https://scnujackychen.github.io/categories/Machine-Learning/"/>
-    
-    
-    <category term="ML" scheme="https://scnujackychen.github.io/tags/ML/"/>
-    
-    <category term="RNN" scheme="https://scnujackychen.github.io/tags/RNN/"/>
-    
-    <category term="BPTT" scheme="https://scnujackychen.github.io/tags/BPTT/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>YOLOv5 Training Using Custom Dataset</title>
-    <link href="https://scnujackychen.github.io/2021/11/04/YOLO5/"/>
-    <id>https://scnujackychen.github.io/2021/11/04/YOLO5/</id>
-    <published>2021-11-04T02:25:46.000Z</published>
-    <updated>2021-11-04T07:05:59.605Z</updated>
-    
-    
-    <summary type="html">A tutorial about how to train YOLOv5 model on your own dataset</summary>
-    
-    
-    
-    <category term="Computer Vision" scheme="https://scnujackychen.github.io/categories/Computer-Vision/"/>
-    
-    
-    <category term="YOLO" scheme="https://scnujackychen.github.io/tags/YOLO/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LC weekly contest 262</title>
-    <link href="https://scnujackychen.github.io/2021/10/11/LC-weekly-contest-262/"/>
-    <id>https://scnujackychen.github.io/2021/10/11/LC-weekly-contest-262/</id>
-    <published>2021-10-11T04:17:48.000Z</published>
-    <updated>2021-10-12T09:22:38.900Z</updated>
-    
-    
-    <summary type="html">review and solution for LC weekly contest 262</summary>
-    
-    
-    
-    <category term="Leetcode周赛" scheme="https://scnujackychen.github.io/categories/Leetcode%E5%91%A8%E8%B5%9B/"/>
-    
-    
-    <category term="Leetcode" scheme="https://scnujackychen.github.io/tags/Leetcode/"/>
-    
-    <category term="贪心" scheme="https://scnujackychen.github.io/tags/%E8%B4%AA%E5%BF%83/"/>
-    
-    <category term="二分" scheme="https://scnujackychen.github.io/tags/%E4%BA%8C%E5%88%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>我成阴阳人了？</title>
-    <link href="https://scnujackychen.github.io/2021/09/11/Singapore-serology-test/"/>
-    <id>https://scnujackychen.github.io/2021/09/11/Singapore-serology-test/</id>
-    <published>2021-09-11T14:13:31.000Z</published>
-    <updated>2021-10-11T06:42:27.320Z</updated>
-    
-    
-    <summary type="html">我在新加坡的维权之路</summary>
-    
-    
-    
-    <category term="留学生活" scheme="https://scnujackychen.github.io/categories/%E7%95%99%E5%AD%A6%E7%94%9F%E6%B4%BB/"/>
-    
-    
-    <category term="抗体检测" scheme="https://scnujackychen.github.io/tags/%E6%8A%97%E4%BD%93%E6%A3%80%E6%B5%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LC 双周赛第60场</title>
-    <link href="https://scnujackychen.github.io/2021/09/06/LC-biweekly-contest-60/"/>
-    <id>https://scnujackychen.github.io/2021/09/06/LC-biweekly-contest-60/</id>
-    <published>2021-09-06T15:34:28.000Z</published>
-    <updated>2021-09-11T14:10:17.283Z</updated>
-    
-    
-    <summary type="html">LC双周赛第60场复盘+题解</summary>
-    
-    
-    
-    <category term="Leetcode周赛" scheme="https://scnujackychen.github.io/categories/Leetcode%E5%91%A8%E8%B5%9B/"/>
-    
-    
-    <category term="Leetcode" scheme="https://scnujackychen.github.io/tags/Leetcode/"/>
-    
-    <category term="DFS" scheme="https://scnujackychen.github.io/tags/DFS/"/>
-    
-    <category term="前缀和" scheme="https://scnujackychen.github.io/tags/%E5%89%8D%E7%BC%80%E5%92%8C/"/>
-    
-    <category term="最大独立集" scheme="https://scnujackychen.github.io/tags/%E6%9C%80%E5%A4%A7%E7%8B%AC%E7%AB%8B%E9%9B%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LC 周赛第255场</title>
-    <link href="https://scnujackychen.github.io/2021/08/24/LC-weekly-contest-255/"/>
-    <id>https://scnujackychen.github.io/2021/08/24/LC-weekly-contest-255/</id>
-    <published>2021-08-24T08:37:24.000Z</published>
-    <updated>2021-08-24T10:20:06.922Z</updated>
-    
-    
-    <summary type="html">LC周赛第255场复盘+题解</summary>
-    
-    
-    
-    <category term="Leetcode周赛" scheme="https://scnujackychen.github.io/categories/Leetcode%E5%91%A8%E8%B5%9B/"/>
-    
-    
-    <category term="Leetcode" scheme="https://scnujackychen.github.io/tags/Leetcode/"/>
-    
-    <category term="状压DP" scheme="https://scnujackychen.github.io/tags/%E7%8A%B6%E5%8E%8BDP/"/>
-    
-    <category term="数学" scheme="https://scnujackychen.github.io/tags/%E6%95%B0%E5%AD%A6/"/>
-    
-    <category term="GCD" scheme="https://scnujackychen.github.io/tags/GCD/"/>
     
   </entry>
   
