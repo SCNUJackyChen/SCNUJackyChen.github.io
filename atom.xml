@@ -6,7 +6,7 @@
   <link href="https://scnujackychen.github.io/atom.xml" rel="self"/>
   
   <link href="https://scnujackychen.github.io/"/>
-  <updated>2022-06-16T10:50:10.503Z</updated>
+  <updated>2022-06-24T05:36:21.593Z</updated>
   <id>https://scnujackychen.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>LC weekly contest 298</title>
+    <link href="https://scnujackychen.github.io/2022/06/24/LC-weekly-contest-298/"/>
+    <id>https://scnujackychen.github.io/2022/06/24/LC-weekly-contest-298/</id>
+    <published>2022-06-24T04:06:04.000Z</published>
+    <updated>2022-06-24T05:36:21.593Z</updated>
+    
+    
+    <summary type="html">LC 周赛第298场题解</summary>
+    
+    
+    
+    <category term="Leetcode周赛" scheme="https://scnujackychen.github.io/categories/Leetcode%E5%91%A8%E8%B5%9B/"/>
+    
+    
+    <category term="Leetcode" scheme="https://scnujackychen.github.io/tags/Leetcode/"/>
+    
+    <category term="贪心" scheme="https://scnujackychen.github.io/tags/%E8%B4%AA%E5%BF%83/"/>
+    
+    <category term="DP" scheme="https://scnujackychen.github.io/tags/DP/"/>
+    
+    <category term="数学" scheme="https://scnujackychen.github.io/tags/%E6%95%B0%E5%AD%A6/"/>
+    
+  </entry>
   
   <entry>
     <title>LC biweekly contest 80</title>
@@ -48,7 +73,7 @@
     <link href="https://scnujackychen.github.io/2022/06/16/LC-weekly-contest-296/"/>
     <id>https://scnujackychen.github.io/2022/06/16/LC-weekly-contest-296/</id>
     <published>2022-06-16T09:55:27.000Z</published>
-    <updated>2022-06-16T09:59:38.506Z</updated>
+    <updated>2022-06-24T05:32:23.665Z</updated>
     
     
     <summary type="html">LC 周赛第296场题解</summary>
@@ -484,29 +509,6 @@
     <category term="DP" scheme="https://scnujackychen.github.io/tags/DP/"/>
     
     <category term="模拟" scheme="https://scnujackychen.github.io/tags/%E6%A8%A1%E6%8B%9F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>ACWing weekly contest 27</title>
-    <link href="https://scnujackychen.github.io/2021/11/28/ACWing-weekly-contest-27/"/>
-    <id>https://scnujackychen.github.io/2021/11/28/ACWing-weekly-contest-27/</id>
-    <published>2021-11-28T06:19:04.000Z</published>
-    <updated>2021-11-28T07:44:02.382Z</updated>
-    
-    
-    <summary type="html">ACWing 周赛第27场题解</summary>
-    
-    
-    
-    <category term="算法" scheme="https://scnujackychen.github.io/categories/%E7%AE%97%E6%B3%95/"/>
-    
-    
-    <category term="DP" scheme="https://scnujackychen.github.io/tags/DP/"/>
-    
-    <category term="二分" scheme="https://scnujackychen.github.io/tags/%E4%BA%8C%E5%88%86/"/>
-    
-    <category term="背包问题" scheme="https://scnujackychen.github.io/tags/%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98/"/>
     
   </entry>
   
