@@ -17,6 +17,8 @@ description:  LC 周赛第296场题解
 
 考试时用stl写了个模拟过了，后来加强了数据被卡掉了。正确做法应该是利用双链表或者对顶栈，这种构造还是比较巧妙的。
 
+##### **Code**
+
 ```cpp
 class TextEditor {
 public:
