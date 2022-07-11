@@ -6,7 +6,7 @@
   <link href="https://scnujackychen.github.io/atom.xml" rel="self"/>
   
   <link href="https://scnujackychen.github.io/"/>
-  <updated>2022-06-24T05:36:21.593Z</updated>
+  <updated>2022-07-11T06:40:56.408Z</updated>
   <id>https://scnujackychen.github.io/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>周赛难题精选</title>
+    <link href="https://scnujackychen.github.io/2022/07/11/LC-weekly-hard-questions-collection/"/>
+    <id>https://scnujackychen.github.io/2022/07/11/LC-weekly-hard-questions-collection/</id>
+    <published>2022-07-11T04:07:17.000Z</published>
+    <updated>2022-07-11T06:40:56.408Z</updated>
+    
+    
+    <summary type="html">收录难题好题</summary>
+    
+    
+    
+    <category term="难题精选" scheme="https://scnujackychen.github.io/categories/%E9%9A%BE%E9%A2%98%E7%B2%BE%E9%80%89/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>LC weekly contest 298</title>
@@ -484,31 +501,6 @@
     <category term="数论" scheme="https://scnujackychen.github.io/tags/%E6%95%B0%E8%AE%BA/"/>
     
     <category term="并查集" scheme="https://scnujackychen.github.io/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LC biweekly contest 66</title>
-    <link href="https://scnujackychen.github.io/2021/11/28/LC-biweekly-contest-66/"/>
-    <id>https://scnujackychen.github.io/2021/11/28/LC-biweekly-contest-66/</id>
-    <published>2021-11-28T08:38:38.000Z</published>
-    <updated>2021-11-28T09:13:04.795Z</updated>
-    
-    
-    <summary type="html">LC双周赛第66场复盘+题解</summary>
-    
-    
-    
-    <category term="Leetcode周赛" scheme="https://scnujackychen.github.io/categories/Leetcode%E5%91%A8%E8%B5%9B/"/>
-    
-    
-    <category term="Leetcode" scheme="https://scnujackychen.github.io/tags/Leetcode/"/>
-    
-    <category term="贪心" scheme="https://scnujackychen.github.io/tags/%E8%B4%AA%E5%BF%83/"/>
-    
-    <category term="DP" scheme="https://scnujackychen.github.io/tags/DP/"/>
-    
-    <category term="模拟" scheme="https://scnujackychen.github.io/tags/%E6%A8%A1%E6%8B%9F/"/>
     
   </entry>
   
